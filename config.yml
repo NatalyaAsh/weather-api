@@ -1,0 +1,6 @@
+port: "8080"
+cache_ttl_seconds: 300
+city_lat: 55.03
+city_lon: 82.92
+city_name: "Novosibirsk"
+open_meteo_url: "https://api.open-meteo.com/v1/forecast"
